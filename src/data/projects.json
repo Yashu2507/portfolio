@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Real-Time Cryptocurrency Tracker with Full-Stack Integration",
+    "imageSrc": "projects/project.png",
+    "description": "Full-stack cryptocurrency tracker with React and Node.js, featuring real-time data, advanced visualization, and optimized performance.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "",
+    "source": "https://github.com/Yashu2507/Crypto-Tracker-React.git"
+  },
+  {
+    "title": "Social Media Analytics Dashboard",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Online Learning Platform Devlopment",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "", 
+    "source": "https://www.github.com"
+  }
+]
