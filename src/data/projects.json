@@ -2,25 +2,25 @@
   {
     "title": "Real-Time Cryptocurrency Tracker with Full-Stack Integration",
     "imageSrc": "projects/project.png",
-    "description": "Full-stack cryptocurrency tracker with React and Node.js, featuring real-time data, advanced visualization, and optimized performance.",
+    "description": "Full-stack cryptocurrency tracker with React and Node.js, featuring real-time data and optimized performance.",
     "skills": ["React", "Express", "Node"],
     "demo": "",
     "source": "https://github.com/Yashu2507/Crypto-Tracker-React.git"
   },
   {
-    "title": "Social Media Analytics Dashboard",
+    "title": "A Real Time Todo-React",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "description": "A robust ToDo-React project built with React, Express, and Node.js for efficient task management, featuring real-time updates and a user-friendly interface.",
+    "skills": ["React", "Express", "Node"],
     "demo": "",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Yashu2507/Todo-React.git"
   },
   {
-    "title": "Online Learning Platform Devlopment",
+    "title": "A Real-Time Expense Tracker",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "A React Expense Tracker project designed for seamless financial management, offering real-time expense tracking.",
     "skills": ["React", "Express", "Node"],
     "demo": "", 
-    "source": "https://www.github.com"
+    "source": "https://github.com/Yashu2507/React_Expense_Tracker.git"
   }
 ]
