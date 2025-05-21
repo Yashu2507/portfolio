@@ -7,9 +7,7 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>
-          Hi, I'm <span style={{ display: "block" }}>Yashwanth Nalamasa</span>
-        </h1>
+        <h1 className={styles.title}>Hi, I'm Yashwanth Nalamasa</h1>
         <p className={styles.description}>
           I'm a Full-Stack Developer with 4 years of experience using React and
           Node js. Reach out if you'd like to know more!
