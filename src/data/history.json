@@ -1,12 +1,35 @@
 [
   {
-    
-        "role": "Software Engineer",
-        "organisation": "Accenture Solutions Private Ltd",
-        "startDate": "Sept, 2021",
-        "endDate": "Jan, 2023",
-        "experiences": ["Worked on Workday and PeopleSoft", "Developed custom Workday and PeopleSoft integrations, reports, applications, and UIs, enhancing HR, payroll, and finance efficiency by up to 30%, while ensuring data accuracy, security, and compliance"],
-        "imageSrc": "history/accenture.png"
-      }
-  
+    "role": "Software Engineer",
+    "organisation": "HCL Tech",
+    "startDate": "Apr, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Developing Java microservices with Spring Boot",
+      "Improving backend APIs and React integration"
+    ],
+    "imageSrc": "history/hcl.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Accenture Solutions Private Ltd",
+    "startDate": "Sept, 2021",
+    "endDate": "Jan, 2023",
+    "experiences": [
+      "Worked on Workday and PeopleSoft",
+      "Built integrations, reports, and apps for HR and payroll"
+    ],
+    "imageSrc": "history/accenture.png"
+  },
+  {
+    "role": "Java Developer",
+    "organisation": "KPMG",
+    "startDate": "Aug, 2019",
+    "endDate": "Aug, 2021",
+    "experiences": [
+      "Built enterprise apps with Java and Spring Boot",
+      "Optimized databases and APIs for better performance"
+    ],
+    "imageSrc": "history/kpmg.png"
+  }
 ]
