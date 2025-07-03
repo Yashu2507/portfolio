@@ -6,6 +6,12 @@ import { getimageUrl } from "../../utils";
 export const Hero = () => {
   return (
     <section className={styles.container}>
+       <img
+        src={getimageUrl("hero/heroImage.png")}
+        alt="Hero Image of me"
+        className={styles.heroImg}
+      />
+
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Yashwanth Nalamasa</h1>
         <p className={styles.description}>
@@ -20,11 +26,7 @@ export const Hero = () => {
         </a>
       </div>
 
-      <img
-        src={getimageUrl("hero/heroImage.png")}
-        alt="Hero Image of me"
-        className={styles.heroImg}
-      />
+     
 
       <div className={styles.topBlur}></div>
       <div className={styles.bottomBlur}></div>
